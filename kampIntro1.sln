@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kampIntro1", "kampIntro1\kampIntro1.csproj", "{F3DE25CD-427F-4C05-A9DA-8C9EBAB8DFAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{ECFE467F-58EE-455B-A7DA-77E7EB275B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{8F72644D-8291-4610-9F53-C6C0C325A803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3DE25CD-427F-4C05-A9DA-8C9EBAB8DFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DE25CD-427F-4C05-A9DA-8C9EBAB8DFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DE25CD-427F-4C05-A9DA-8C9EBAB8DFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DE25CD-427F-4C05-A9DA-8C9EBAB8DFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFE467F-58EE-455B-A7DA-77E7EB275B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFE467F-58EE-455B-A7DA-77E7EB275B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFE467F-58EE-455B-A7DA-77E7EB275B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFE467F-58EE-455B-A7DA-77E7EB275B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F72644D-8291-4610-9F53-C6C0C325A803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F72644D-8291-4610-9F53-C6C0C325A803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F72644D-8291-4610-9F53-C6C0C325A803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F72644D-8291-4610-9F53-C6C0C325A803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1564C0D5-7EA2-4A28-95CF-2B26ED201747}
+	EndGlobalSection
+EndGlobal
